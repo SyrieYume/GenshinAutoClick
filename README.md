@@ -11,7 +11,7 @@
 ### 1. 将 Minhook 编译为静态链接库
 ```bash
 mkdir ./Minhook/lib
-g++ -c ./Minhook/src/*.c ./Minhook/src/hde/*.c -O2
+gcc -c ./Minhook/src/*.c ./Minhook/src/hde/*.c -O2
 ar rcs ./Minhook/lib/minhook.lib ./*.o
 rm *.o
 ```
