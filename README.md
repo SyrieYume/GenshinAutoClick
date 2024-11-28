@@ -1,5 +1,6 @@
 # GenshinAutoClick
-原神后台自动点剧情工具。
+原神后台自动点剧情工具 v1 版本   
+推荐大家前往使用更方便的 v2 版本：https://github.com/SyrieYume/GenshinAutoV2
 
 ## 注意事项
 1. 在第一次运行程序前，请先修改配置文件 `config.ini`。
